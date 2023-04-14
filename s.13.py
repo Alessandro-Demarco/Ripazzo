@@ -10,3 +10,4 @@ for x in l2:
 sl1=set(l1)
 sl2=set(l2)
 print(sl1.union(sl2))
+print(sl1.intersection(sl2))
